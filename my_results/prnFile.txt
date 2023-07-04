@@ -1,0 +1,2 @@
+
+Err::CGrid::ReadVelTx_t(-if(nX != nXnew || nY != nYnew || !flagIniGreed || !vel)
